@@ -1,4 +1,4 @@
-# <a href="https://json-html.deno.dev">http request/200</a> ok ----> .json .html <hr>
+# <a href="https://json-html.deno.dev">http request/200</a> ok .json .html <hr>
 
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
