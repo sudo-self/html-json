@@ -18,7 +18,7 @@ add /json endpoint
 ## json-html.deno.dev <a href="https://json-html.deno.dev/html">/HTML</a>
 
 add /html endpoint
-<code>https://json-html.deno.dev/html</code>Hello from Deno Deploy
+<code>https://json-html.deno.dev/html</code><b>Message:</b>Hello from Deno Deploy.
 ```sh
 # Response:
 # HTTP/2 200
