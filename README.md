@@ -1,6 +1,4 @@
-# http request/200 Ok. 
-
-[/JSON /HTML](https://json-html.deno.dev) <endpoint>
+# http request/200 Ok. <hr>
 
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
@@ -37,4 +35,4 @@ curl --dump-header - https://json-html.deno.dev/html
 #   <p><b>Message:</b> Hello from Deno Deploy.</p>
 # </html>
 ```
-
+[/JSON /HTML](https://json-html.deno.dev) <endpoint>
