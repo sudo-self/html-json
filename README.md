@@ -1,4 +1,6 @@
-# http request/200 Ok. Responces with  /JSON  /HTML
+# http request/200 Ok.  /JSON  /HTML
+
+![Screenshot 2024-03-10 at 3 02 26 AM](https://github.com/sudo-self/html-json/assets/119916323/6aa594cb-0f0b-42b1-add5-b3a3c2ebad10)
 
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
