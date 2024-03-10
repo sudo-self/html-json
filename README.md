@@ -1,9 +1,9 @@
 # http request/200 ok.  respond with  /JSON  /HTML
 
 
-[Try Live Version](#try-live-version)
 
-## Try Live Version
+
+## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
 https://json-html.deno.dev.
 
@@ -22,6 +22,8 @@ curl --dump-header - https://json-html.deno.dev/json
 # {"message":"Hello from Deno Deploy"}
 ```
 
+## json-html.deno.dev <a href="https://json-html.deno.dev/html">/HTML</a>
+
 add /html endpoint
 
 ```sh
@@ -38,13 +40,4 @@ curl --dump-header - https://json-html.deno.dev/html
 #   <p><b>Message:</b> Hello from Deno Deploy.</p>
 # </html>
 ```
-
-## Run Offline
-
-You can run the example program on your machine using
-[`deno`](https://github.com/denoland/deno):
-
-```sh
-deno run https://raw.githubusercontent.com/denoland/deploy_examples/main/json_html/mod.js
-# Listening at http://localhost:8080
-```
+[SAME STARTING ORIGIN](https://json-html.deno.dev)
