@@ -3,11 +3,10 @@
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
 add /json endpoint 
+<code>curl --dump-header - https://json-html.deno.dev/json</code>
 
 ```sh
-curl --dump-header - https://json-html.deno.dev/json
 # Response:
-
 # HTTP/2 200
 # content-type: application/json; charset=UTF-8
 # content-length: 36
@@ -20,11 +19,10 @@ curl --dump-header - https://json-html.deno.dev/json
 ## json-html.deno.dev <a href="https://json-html.deno.dev/html">/HTML</a>
 
 add /html endpoint
+<code>curl --dump-header - https://json-html.deno.dev/html</code>
 
 ```sh
-curl --dump-header - https://json-html.deno.dev/html
 # Response:
-
 # HTTP/2 200
 # content-type: text/html; charset=UTF-8
 # content-length: 73
