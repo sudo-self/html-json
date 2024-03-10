@@ -1,16 +1,13 @@
-# Respond with JSON and/or HTML
+# http request/200 ok.  respond with  /JSON  /HTML
 
-This example demonstrates how to respond to requests with JSON and/or HTML in
-Deno Deploy.
 
-- [Try Live Version](#try-live-version)
+[Try Live Version](#try-live-version)
 
 ## Try Live Version
 
-The example is deployed at https://json-html.deno.dev for demo.
+https://json-html.deno.dev.
 
-Visit or curl `https://json-html.deno.dev/json` endpoint to get response in
-JSON.
+add /json endpoint 
 
 ```sh
 curl --dump-header - https://json-html.deno.dev/json
@@ -25,8 +22,7 @@ curl --dump-header - https://json-html.deno.dev/json
 # {"message":"Hello from Deno Deploy"}
 ```
 
-Visit or curl `https://json-html.deno.dev/html` endpoint to get response in
-HTML.
+add /html endpoint
 
 ```sh
 curl --dump-header - https://json-html.deno.dev/html
