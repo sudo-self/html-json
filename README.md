@@ -3,8 +3,7 @@
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
 add /json endpoint 
-<code>https://json-html.deno.dev/json</code>
-
+<code>https://json-html.deno.dev/json</code>{"message":"Hello from Deno Deploy"}
 ```sh
 # Response:
 # HTTP/2 200
@@ -19,8 +18,7 @@ add /json endpoint
 ## json-html.deno.dev <a href="https://json-html.deno.dev/html">/HTML</a>
 
 add /html endpoint
-<code>https://json-html.deno.dev/html</code>
-
+<code>https://json-html.deno.dev/html</code>Hello from Deno Deploy
 ```sh
 # Response:
 # HTTP/2 200
@@ -30,7 +28,7 @@ add /html endpoint
 # server: denosr
 # x-dsr-id: asia-southeast1-a::runner-l4hc
 # <html>
-#   <p><b>Message:</b> Hello from Deno Deploy.</p>
+# <p><b>Message:</b> Hello from Deno Deploy.</p>
 # </html>
 ```
-[/JSON /HTML](https://json-html.deno.dev) <endpoint>
+[/JSON /HTML](https://json-html.deno.dev)&nbsp;<endpoint>
