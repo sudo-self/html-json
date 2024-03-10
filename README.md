@@ -3,7 +3,7 @@
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
 add /json endpoint 
-<code>curl --dump-header - https://json-html.deno.dev/json</code>
+<code>https://json-html.deno.dev/json</code>
 
 ```sh
 # Response:
@@ -19,7 +19,7 @@ add /json endpoint
 ## json-html.deno.dev <a href="https://json-html.deno.dev/html">/HTML</a>
 
 add /html endpoint
-<code>curl --dump-header - https://json-html.deno.dev/html</code>
+<code>https://json-html.deno.dev/html</code>
 
 ```sh
 # Response:
