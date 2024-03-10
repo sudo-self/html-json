@@ -1,11 +1,6 @@
-# http request/200 ok.  respond with  /JSON  /HTML
-
-
-
+# http request/200 Ok. Responces with  /JSON  /HTML
 
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
-
-https://json-html.deno.dev.
 
 add /json endpoint 
 
