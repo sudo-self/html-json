@@ -1,4 +1,4 @@
-# <a href="https://json-html.deno.dev">http request/200</a> ok .json .html <hr>
+# <a href="https://json-html.deno.dev">http request/200</a>ok.<hr>
 
 ## json-html.deno.dev<a href="https://json-html.deno.dev/json">/JSON</a>
 
@@ -18,7 +18,7 @@ add /json endpoint
 ## json-html.deno.dev <a href="https://json-html.deno.dev/html">/HTML</a>
 
 add /html endpoint
-<code>https://json-html.deno.dev/html</code><b>Message:</b>Hello from Deno Deploy.
+<code>https://json-html.deno.dev/html</code><b>Message:</b>&nbsp;Hello from Deno Deploy.
 ```sh
 # Response:
 # HTTP/2 200
